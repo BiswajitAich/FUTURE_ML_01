@@ -1,5 +1,7 @@
 # 📊 **Sales Forecasting using Machine Learning**
 
+[![Click for CODE](https://img.shields.io/badge/Click%20for%20CODE-Python-blue?style=for-the-badge&logo=python&logoColor=ffdd54)](/FUTURE_ML_01-Time_Series.ipynb)
+
 ## Project Overview
 
 This project focuses on predicting future sales using historical sales data and machine learning techniques.
@@ -104,8 +106,8 @@ ___
 Biswajit Aich
 B.Tech CSE | Machine Learning Enthusiast
 
-[GitHub](https://github.com/BiswajitAich)
-[LinkedIn](https://www.linkedin.com/in/biswajitaich/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiswajitAich)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/biswajitaich)
 
 ___
 
