@@ -4,7 +4,9 @@
 
 ## Project Overview
 
-This project focuses on predicting future sales using historical sales data and machine learning techniques.
+This project was developed as part of the **Future Interns Machine Learning Internship Program (2026)**. [🔗](https://futureinterns.com/machine-learning-task-2-2026/)
+
+Project focuses on predicting future sales using historical sales data and machine learning techniques.
 The goal is to learn how time-series data can be transformed into a supervised learning problem using feature engineering and regression models.
 
 The model analyzes past sales patterns and predicts upcoming sales values based on trends and historical behavior.
